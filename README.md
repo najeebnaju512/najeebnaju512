@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/najeebnaju512" target="blank"><img src="https://img.shields.io/twitter/follow/najeebnaju512?logo=twitter&style=for-the-badge" alt="najeebnaju512" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Application Devolopment**
+- 🔭 I’m currently working on **Mobile Application Development**
 
 - 🌱 I’m currently learning **Flutter,Hive,Firebase,RestAPI**
 
