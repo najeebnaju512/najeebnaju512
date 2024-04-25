@@ -11,13 +11,11 @@
 
 - 👯 I’m looking to collaborate on **any Mobile App Ideas**
 
-- 🤝 I’m looking for help with **Data Structures & Algorithms**
+- 📄 View my [Resume](https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view)
 
 - 💬 Ask me about **Tech related stuff**
 
 - 📫 How to reach me **najeebnaju512@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view](https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view)
 
 - ⚡ Fun fact **I love Music**
 
