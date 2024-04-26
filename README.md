@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any Mobile App Ideas**
 
-- 📄 View my [Resume](https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view)
+- 📄 View my [Resume](https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view?usp=sharing)
 
 - 💬 Ask me about **Tech related stuff**
 
