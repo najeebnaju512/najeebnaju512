@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter,Hive,Firebase,RestAPI**
 
-- 👯 I’m looking to collaborate on **any Mobile App Ideas**
+- 👯 I’m looking to collaborate on **any Mobile Application Ideas**
 
 - 📄 View my [Resume](https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view?usp=sharing)
 
