@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Najeeb</h1>
+<h1 align="center">Hi 👋,Am Najeeb</h1>
 <h3 align="center">A Passionate Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najeebnaju512&label=Profile%20views&color=0e75b6&style=flat" alt="najeebnaju512" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **Flutter,Hive,Firebase,RestAPI**
+- 🌱 I’m currently learning **Flutter,Dart,Hive,Firebase,RestAPI**
 
 - 👯 I’m looking to collaborate on **any Mobile Application Ideas**
 
