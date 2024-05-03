@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **Flutter,Dart,Hive,Firebase,RestAPI**
+- 🌱 I’m currently learning **Flutter, Dart, Hive, Firebase, RestAPI**
 
 - 👯 I’m looking to collaborate on **any Mobile Application Ideas**
 
