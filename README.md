@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋,I'm Najeeb </h1>
-<h3 align="center">A Passionate Flutter Developer</h3>
+<h1 align="center">Hi 👋, I'm Najeeb</h1>
+<h3 align="center">A passionate Flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najeebnaju512&label=Profile%20views&color=0e75b6&style=flat" alt="najeebnaju512" /> </p>
 
 <p align="left"> <a href="https://twitter.com/najeebnaju512" target="blank"><img src="https://img.shields.io/twitter/follow/najeebnaju512?logo=twitter&style=for-the-badge" alt="najeebnaju512" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Application Development**
+- 🔭 I’m currently working on **Mobile Application Devolopment**
 
-- 🌱 I’m currently learning **Flutter, Dart, Hive, Firebase, RestAPI**
+- 🌱 I’m currently learning **Flutter,Hive,Firebase,RestAPI**
 
-- 👯 I’m looking to collaborate on **any Mobile Application Ideas**
+- 👯 I’m looking to collaborate on **any Mobile App Ideas**
 
-- 📄 View my [Resume](https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view?usp=sharing)
+- 📄 View my [Resume](https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view)
 
 - 💬 Ask me about **Tech related stuff**
 
@@ -35,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najeebnaju512&show_icons=true&locale=en" alt="najeebnaju512" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najeebnaju512&" alt="najeebnaju512" /></p>
-
