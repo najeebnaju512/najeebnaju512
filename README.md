@@ -25,7 +25,6 @@
   </a>
 </p>
 
----
 
 <!-- Connect with Me Section -->
 <h3 align="center" style="color:#00bfff;">Connect with Me</h3>
@@ -44,7 +43,6 @@
   </a>
 </p>
 
----
 
 <!-- Languages & Tools Section -->
 <h3 align="center" style="color:#1e90ff;">Languages & Tools</h3>
@@ -69,7 +67,6 @@
   </a>
 </p>
 
----
 
 <!-- GitHub Stats & Streak Section -->
 <p align="center">
