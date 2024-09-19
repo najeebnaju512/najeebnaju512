@@ -1,11 +1,10 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x150/0d1117/58a6ff?text=Welcome+to+Najeeb's+Profile&font=Source+Sans+Pro" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="https://via.placeholder.com/800x150/0d1117/58a6ff?text=Hi..+Am+Najeeb&font=Source+Code+Pro" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); font-family: 'Source Code Pro', monospace;" />
 </p>
 
-
 <!-- Intro Section -->
-<h3 align="center" style="color:#58a6ff; font-size: 24px;">Flutter Developer | Mobile App Enthusiast</h3>
+<h3 align="center" style="color:#58a6ff; font-size: 24px; font-family: 'Source Code Pro', monospace;">Flutter Developer | Mobile App Enthusiast</h3>
 
 <!-- Profile Views and Twitter Follow -->
 <p align="center">
@@ -13,7 +12,7 @@
 </p>
 
 <!-- Connect with Me Section -->
-<h3 align="center" style="color:#58a6ff; font-size: 20px;">Connect with Me</h3>
+<h3 align="center" style="color:#58a6ff; font-size: 20px; font-family: 'Source Code Pro', monospace;">Connect with Me</h3>
 <p align="center">
   <a href="https://twitter.com/najeebnaju512" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="25" width="35" />
@@ -36,7 +35,7 @@
 </p>
 
 <!-- Languages & Tools Section -->
-<h3 align="center" style="color:#58a6ff; font-size: 20px;">Languages & Tools</h3>
+<h3 align="center" style="color:#58a6ff; font-size: 20px; font-family: 'Source Code Pro', monospace;">Languages & Tools</h3>
 <p align="center">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="25" height="25" />
