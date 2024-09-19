@@ -1,11 +1,12 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="1000" hight='400>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 <br><br>
 </p>
 
 ### 
 
+<h2 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#58a6ff;">Hi..Am Naji..</h2>
 <h3 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#58a6ff;">Flutter Developer | Mobile App Enthusiast</h3>
 
 ### 
