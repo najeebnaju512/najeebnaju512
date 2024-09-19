@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8z37Xg4P0wx4I/giphy.gif" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); font-family: 'Source Code Pro', monospace; font-size: 24px; font-style: italic;" />
+  <img src="https://your-coding-gif-url.gif" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); font-family: 'Source Code Pro', monospace; font-size: 24px; font-style: italic;" />
 </p>
 
 ### 
