@@ -26,11 +26,8 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="29" alt="github logo" />
 </div>
-
 ### 
-
 <!-- Key Skills Section -->
-<h3 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#58a6ff;">Key Skills</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="29" alt="android logo" />
   <img width="11" />
