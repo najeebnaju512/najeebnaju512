@@ -27,7 +27,23 @@
 
 ### 
 
-<<div align="center">
+<!-- Key Skills Section -->
+<h3 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#58a6ff;">Key Skills</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="29" alt="android logo" />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="29" alt="git logo" />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="29" alt="sqlite logo" />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="29" alt="postgresql logo" />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="29" alt="figma logo" />
+</div>
+
+### 
+
+<div align="center">
   <a href="mailto:najeebnaju512@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=0d1117&logoColor=58a6ff&style=for-the-badge" height="30" alt="email logo" />
   </a>
@@ -38,4 +54,3 @@
     <img src="https://img.shields.io/static/v1?message=Resume&logo=resume&label=&color=0d1117&logoColor=58a6ff&style=for-the-badge" height="30" alt="resume logo" />
   </a>
 </div>
-
