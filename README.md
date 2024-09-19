@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300/000000/00bfff?text=Welcome+to+Najeeb's+GitHub+Profile" alt="Banner" />
+</p>
+
 <h1 align="center" style="color:#00bfff;">Hi 👋, I'm Najeeb</h1>
 <h3 align="center" style="color:#1e90ff;">Flutter Developer | Mobile App Enthusiast</h3>
 
@@ -38,7 +42,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najeebnaju512&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=00bfff&text_color=ffffff" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=najeebnaju512&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=1e90ff&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najeebnaju512&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=00bfff&text_color=ffffff" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=najeebnaju512&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=1e90ff&text_color=ffffff" alt="GitHub Stats" width="49%"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=najeebnaju512&theme=dark&background=000000&border=00bfff&stroke=00bfff&ring=1e90ff&fire=1e90ff&currStreakNum=00bfff&sideNums=00bfff&currStreakLabel=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </p>
