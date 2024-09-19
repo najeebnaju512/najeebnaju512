@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/000000/00bfff?text=Welcome+to+Najeeb's+Profile" alt="Banner" />
+  <img src="https://via.placeholder.com/800x200/1e90ff/ffffff?text=Welcome+to+Najeeb's+Profile" alt="Banner" />
 </p>
 
 <!-- Intro Section -->
@@ -11,27 +11,26 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=najeebnaju512&label=Profile%20views&color=1e90ff&style=flat" alt="Profile views" />
   <a href="https://twitter.com/najeebnaju512" target="blank">
-    <img src="https://img.shields.io/twitter/follow/najeebnaju512?logo=twitter&style=for-the-badge&labelColor=1e90ff&color=000000" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/najeebnaju512?logo=twitter&style=social" alt="Twitter Follow" />
   </a>
 </p>
 
-<!-- Quick Overview -->
-- 🔭 Working on **Mobile App Development**  
-- 🌱 Learning **Flutter, Hive, Firebase, RestAPI**
-
-<!-- Email and Resume with Icons -->
+<!-- Social Icons: Twitter, Email, Resume -->
 <p align="center">
+  <a href="https://twitter.com/najeebnaju512" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+  </a>
   <a href="mailto:najeebnaju512@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="40" height="40" />
+    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" height="40" width="40" />
   </a>
   <a href="https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" width="40" height="40" />
+    <img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" height="40" width="40" />
   </a>
 </p>
 
 ---
 
-<!-- Social Links -->
+<!-- Connect with Me Section -->
 <h3 align="center" style="color:#00bfff;">Connect with Me</h3>
 <p align="center">
   <a href="https://twitter.com/najeebnaju512" target="blank">
@@ -50,7 +49,7 @@
 
 ---
 
-<!-- Languages & Tools -->
+<!-- Languages & Tools Section -->
 <h3 align="center" style="color:#1e90ff;">Languages & Tools</h3>
 <p align="center">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
@@ -75,7 +74,7 @@
 
 ---
 
-<!-- GitHub Stats & Streak -->
+<!-- GitHub Stats & Streak Section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najeebnaju512&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=00bfff&text_color=ffffff" alt="Top Languages" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api?username=najeebnaju512&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=1e90ff&text_color=ffffff" alt="GitHub Stats" width="400"/>
