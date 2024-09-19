@@ -1,7 +1,9 @@
 <!-- Banner Image -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x150/0d1117/58a6ff?text=Welcome+to+Najeeb's+Profile&font=Source+Sans+Pro" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="https://via.placeholder.com/800x150/0d1117/58a6ff?text=Welcome+to+Najeeb's+Profile&font=Source+Sans+Pro&bg=https://cdn.pixabay.com/photo/2016/11/22/18/12/code-1841410_960_720.jpg" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </p>
+
 
 <!-- Intro Section -->
 <h3 align="center" style="color:#58a6ff; font-size: 24px;">Flutter Developer | Mobile App Enthusiast</h3>
