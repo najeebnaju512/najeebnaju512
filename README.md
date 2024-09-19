@@ -66,9 +66,10 @@
 
 <!-- GitHub Stats & Streak Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najeebnaju512&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=00bfff&text_color=ffffff" alt="Top Languages" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=najeebnaju512&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=1e90ff&text_color=ffffff" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najeebnaju512&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=00bfff&text_color=ffffff" alt="Top Languages" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=najeebnaju512&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=1e90ff&text_color=ffffff" alt="GitHub Stats" width="400" height="200"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=najeebnaju512&theme=dark&background=000000&border=00bfff&stroke=00bfff&ring=1e90ff&fire=1e90ff&currStreakNum=00bfff&sideNums=00bfff&currStreakLabel=ffffff&sideLabels=ffffff" alt="GitHub Streak" width="700"/>
