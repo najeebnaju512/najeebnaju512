@@ -12,17 +12,7 @@
 </p>
 
 <!-- Social Icons: Twitter, Email, Resume -->
-<p align="center">
-  <a href="https://twitter.com/najeebnaju512" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
-  </a>
-  <a href="mailto:najeebnaju512@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" height="35" width="35" />
-  </a>
-  <a href="https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" height="35" width="35" />
-  </a>
-</p>
+
 
 <!-- Connect with Me Section -->
 <h3 align="center" style="color:#00bfff; font-size: 20px;">Connect with Me</h3>
@@ -38,6 +28,12 @@
   </a>
   <a href="https://www.leetcode.com/najeebnaju512" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25" width="35" />
+  </a>
+   <a href="mailto:najeebnaju512@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" height="35" width="35" />
+  </a>
+  <a href="https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" height="35" width="35" />
   </a>
 </p>
 
