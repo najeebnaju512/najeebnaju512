@@ -6,7 +6,7 @@
 
 ### 
 
-<h2 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#58a6ff;">Hi..Am Naji..</h2>
+<h2 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#58a6ff;">Hi..Am Najeeb</h2>
 <h3 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#58a6ff;">Flutter Developer | Mobile App Enthusiast</h3>
 
 ### 
