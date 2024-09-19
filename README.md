@@ -1,7 +1,6 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="[https://your-coding-gif-url.gif](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); font-family: 'Source Code Pro', monospace; font-size: 24px; font-style: italic;" />
-</p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500">
+<br><br>
 
 ### 
 
