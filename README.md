@@ -34,4 +34,7 @@
   <a href="https://www.linkedin.com/in/muhammednajeebay/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=6a8404&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
+  <a href="https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=resume&label=&color=6a8404&logoColor=white&style=for-the-badge" height="30" alt="resume logo" />
+  </a>
 </div>
