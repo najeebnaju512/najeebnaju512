@@ -1,10 +1,10 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x150/0d1117/58a6ff?text=Hi..+Am+Najeeb&font=Source+Code+Pro" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); font-family: 'Source Code Pro', monospace;" />
+  <img src="https://via.placeholder.com/800x150/0d1117/58a6ff?text=Hi..+Am+Najeeb&font=Source+Code+Pro&size=20" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </p>
 
 <!-- Intro Section -->
-<h3 align="center" style="color:#58a6ff; font-size: 24px; font-family: 'Source Code Pro', monospace;">Flutter Developer | Mobile App Enthusiast</h3>
+<h3 align="center" style="color:#58a6ff; font-size: 22px; font-family: 'Source Code Pro', monospace; font-style: italic;">Flutter Developer | Mobile App Enthusiast</h3>
 
 <!-- Profile Views and Twitter Follow -->
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <!-- Connect with Me Section -->
-<h3 align="center" style="color:#58a6ff; font-size: 20px; font-family: 'Source Code Pro', monospace;">Connect with Me</h3>
+<h3 align="center" style="color:#58a6ff; font-size: 18px; font-family: 'Source Code Pro', monospace; font-style: italic;">Connect with Me</h3>
 <p align="center">
   <a href="https://twitter.com/najeebnaju512" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="25" width="35" />
@@ -35,7 +35,7 @@
 </p>
 
 <!-- Languages & Tools Section -->
-<h3 align="center" style="color:#58a6ff; font-size: 20px; font-family: 'Source Code Pro', monospace;">Languages & Tools</h3>
+<h3 align="center" style="color:#58a6ff; font-size: 18px; font-family: 'Source Code Pro', monospace; font-style: italic;">Languages & Tools</h3>
 <p align="center">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="25" height="25" />
@@ -58,11 +58,12 @@
 </p>
 
 <!-- GitHub Stats & Streak Section -->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najeebnaju512&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="400" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=najeebnaju512&show_icons=true&locale=en&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="400" height="200"/>
 </p>
-
+-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=najeebnaju512&theme=dark&background=0d1117&border=58a6ff&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" width="700"/>
 </p>
