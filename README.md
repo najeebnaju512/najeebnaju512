@@ -11,8 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=najeebnaju512&label=Profile%20views&color=1e90ff&style=flat" alt="Profile views" />
 </p>
 
-<!-- Social Icons: Twitter, Email, Resume -->
-
 
 <!-- Connect with Me Section -->
 <h3 align="center" style="color:#00bfff; font-size: 20px;">Connect with Me</h3>
