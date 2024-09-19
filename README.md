@@ -10,9 +10,6 @@
 <!-- Profile Views and Twitter Follow -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=najeebnaju512&label=Profile%20views&color=1e90ff&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/najeebnaju512" target="blank">
-    <img src="https://img.shields.io/twitter/follow/najeebnaju512?logo=twitter&style=social" alt="Twitter Follow" />
-  </a>
 </p>
 
 <!-- Social Icons: Twitter, Email, Resume -->
