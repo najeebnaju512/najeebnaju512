@@ -20,7 +20,6 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="29" alt="firebase logo" />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="29" alt="github logo" />
 </div>
 <!-- Key Skills Section -->
 
@@ -35,8 +34,7 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="29" alt="graphql logo" />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="29" alt="restapi logo" />
-</div>
+  </div>
 
 ### 
 
