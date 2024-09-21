@@ -6,11 +6,11 @@
 
 ### 
 
-<h2 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#58a6ff;">Hi..Am Najeeb</h2>
-<h3 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#58a6ff;">Flutter Developer | Mobile App Enthusiast</h3>
+<h2 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#ff5a5f;">Hi..Am Najeeb</h2>
+<h3 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#ff5a5f;">Flutter Developer | Mobile App Enthusiast</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najeebnaju512&theme=dark&background=0d1117&border=58a6ff&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9" height="145" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najeebnaju512&theme=dark&background=0d1117&border=ff5a5f&stroke=ff5a5f&ring=ff5a5f&fire=ff5a5f&currStreakNum=ff5a5f&sideNums=ff5a5f&currStreakLabel=c9d1d9&sideLabels=c9d1d9" height="145" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -32,19 +32,19 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="29" alt="graphql logo" />
   <img width="11" />
-  </div>
+</div>
 
 ### 
 
 <div align="center">
   <a href="mailto:najeebnaju512@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=0d1117&logoColor=58a6ff&style=for-the-badge" height="30" alt="email logo" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="email logo" />
   </a>
   <a href="https://www.linkedin.com/in/muhammednajeebay/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0d1117&logoColor=58a6ff&style=for-the-badge" height="30" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <a href="https://drive.google.com/file/d/1oG1tXrj1Mct4_RQxjhygn3KDtUwlSjE2/view" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=resume&label=&color=0d1117&logoColor=58a6ff&style=for-the-badge" height="30" alt="resume logo" />
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=resume&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="resume logo" />
   </a>
 </div>
 
