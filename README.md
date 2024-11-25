@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/muhammednajeebay/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
-  <a href="https://drive.google.com/file/d/1Dh8t3zgWLOHUZVYAGX2kyRtQMET5FKhX/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1QbySg9w5mVvfBI4eDuP7TSZs_E1PzKoy/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=resume&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="resume logo" />
   </a>
 </div>
