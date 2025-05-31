@@ -37,6 +37,9 @@
 ### 
 
 <div align="center">
+    <a href="https://najeeb512.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PORTFOLIO&logo=portfolio&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="resume logo" />
+  </a>
   <a href="mailto:najeebnaju512@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="email logo" />
   </a>
@@ -46,6 +49,7 @@
   <a href="https://drive.google.com/file/d/1QbySg9w5mVvfBI4eDuP7TSZs_E1PzKoy/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=resume&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="resume logo" />
   </a>
+
 </div>
 
 <p align="center">
