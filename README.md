@@ -37,7 +37,7 @@
 ### 
 
 <div align="center">
-    <a href="https://najeeb512.netlify.app/" target="_blank">
+    <a href="https://najeebay.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PORTFOLIO&logo=portfolio&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="resume logo" />
   </a>
   <a href="mailto:najeebnaju512@gmail.com" target="_blank">
